@@ -21,8 +21,8 @@
 // * http://aws.amazon.com/articles/Mobile/4617974389850313
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-#define ACCESS_KEY_ID          @"AKIAIKCU4DXC4EBFH6BQ"
-#define SECRET_KEY             @"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"
+#define ACCESS_KEY_ID          @""
+#define SECRET_KEY             @""
 
 
 #define test_user_email   @"mitparikh@gmail.com"
